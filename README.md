@@ -1,3 +1,9 @@
+# Changes
+Following Changes has been made according to the original code;
+
+●   Debug statements has been added at various locations in different files to track the flow of the code.
+●   Update version of drivers has been uploaded as well 
+
 # Cosmos-OpenSSD
 The Cosmos Platform is an open sourced PCIe-based SSD platform based on the HYU Tiger3 controller.
 
@@ -35,10 +41,7 @@ Software:
 
 PCIedevice driver for Linux.
 
-# Changes
-Following Changes has been made according to the original code;
 
-●   Debug statements has been added at various locations in different files to track the flow of the code.
 
 
 
